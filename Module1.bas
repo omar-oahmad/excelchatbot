@@ -24,7 +24,7 @@ Function GetOpenAIResponse(userInput As String) As String
     Dim json As Object
     
     ' Set your OpenAI API key here
-    apiKey = "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"
+    apiKey = "--Insert OpenAI API Key here--"
     
     ' Set OpenAI API endpoint URL
     apiUrl = "https://api.openai.com/v1/chat/completions"
